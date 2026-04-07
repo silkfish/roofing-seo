@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roofing-seo.pages.dev/sitemap.xml
